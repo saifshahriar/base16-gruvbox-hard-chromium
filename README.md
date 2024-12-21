@@ -32,6 +32,6 @@ git clone https://github.com/saifshahriar/base16-gruvbox-hard-chromium.git --dep
 Screenshots
 -----------
 <div align="center">
-    <img src="./images/ss1.png" alt="Screenshot 1" style="width: 50%;">
-    <img src="./images/ss2.png" alt="Screenshot 2" style="width: 50%;">
+    <img src="./images/ss1.png" alt="Screenshot 1" style="width: 49%;">
+    <img src="./images/ss2.png" alt="Screenshot 2" style="width: 49%;">
 </div>
