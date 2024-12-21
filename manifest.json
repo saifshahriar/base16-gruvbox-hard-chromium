@@ -1,0 +1,75 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "base16-gruvbox-hard",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        29,
+        32,
+        33
+      ],
+      "tab_background_text": [
+        102,
+        92,
+        84
+      ],
+      "frame_inactive": [
+        29,
+        32,
+        33
+      ],
+      "toolbar": [
+        131,
+        165,
+        152
+      ],
+      "ntp_text": [
+        213,
+        196,
+        161
+      ],
+      "ntp_link": [
+        250,
+        189,
+        47
+      ],
+      "ntp_section": [
+        102,
+        92,
+        84
+      ],
+      "button_background": [
+        213,
+        196,
+        161
+      ],
+      "toolbar_button_icon": [
+        60,
+        64,
+        67
+      ],
+      "toolbar_text": [
+        60,
+        64,
+        67
+      ],
+      "omnibox_background": [
+        29,
+        32,
+        33
+      ],
+      "omnibox_text": [
+        213,
+        196,
+        161
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "top"
+    }
+  }
+}
